@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/quality_fitness/static/css/main.120ec333.css",
+    "main.js": "/quality_fitness/static/js/main.e491bf78.js",
+    "static/media/pexels-polina-tankilevitch-3735472.jpg": "/quality_fitness/static/media/pexels-polina-tankilevitch-3735472.cd824318b6f9fecae298.jpg",
+    "static/media/istockphoto-1331186720-612x612-removebg-preview.png": "/quality_fitness/static/media/istockphoto-1331186720-612x612-removebg-preview.778499d52cf964a60c85.png",
+    "static/media/attachment_97489210.jpg": "/quality_fitness/static/media/attachment_97489210.eda295590878bc0bec77.jpg",
+    "static/media/free-arrow-left-icon-3099-thumb.png": "/quality_fitness/static/media/free-arrow-left-icon-3099-thumb.e52b523be466a90e7590.png",
+    "index.html": "/quality_fitness/index.html",
+    "main.120ec333.css.map": "/quality_fitness/static/css/main.120ec333.css.map",
+    "main.e491bf78.js.map": "/quality_fitness/static/js/main.e491bf78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.120ec333.css",
+    "static/js/main.e491bf78.js"
+  ]
+}
