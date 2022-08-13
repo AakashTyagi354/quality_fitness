@@ -1,13 +1,14 @@
 {
+  "homepage":"https://AakashTyagi354.github.io/quality_fitness",
   "name": "clientside",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-   
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "@mui/icons-material": "^5.6.1",
     "@mui/material": "^5.6.1",
+    "gh-pages": "^4.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-horizontal-scrolling-menu": "^2.7.1",
@@ -17,6 +18,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
